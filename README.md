@@ -119,9 +119,9 @@ Through personal projects, I have gained experience in:
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perejilinformatico&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagocussit&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=perejilinformatico&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=santiagocussit&theme=tokyonight)
 
 ---
 
