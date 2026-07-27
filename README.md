@@ -109,16 +109,6 @@ Through personal projects, I have gained experience in:
 
 ---
 
-## 🔧 Additional Technologies
-
-- Laravel (PHP Framework)
-- REST APIs
-- Git & GitHub
-- Responsive Web Design
-- MVC Architecture
-
----
-
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagocussit&layout=compact&theme=tokyonight)
@@ -131,4 +121,3 @@ Through personal projects, I have gained experience in:
 
 Feel free to explore my repositories and follow my development journey.
 
-⭐ Always building, always learning.
