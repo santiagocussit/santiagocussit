@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Santiago
 
-![Santiago Title](title.png)
+![Santiago Title](title4.png)
 
 I'm a 14-year-old developer passionate about technology, software development, artificial intelligence, game development, and design.
 
